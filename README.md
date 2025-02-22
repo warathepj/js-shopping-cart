@@ -43,21 +43,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Developer
 CorgiDev
-## Support the Developer
-
-If you find this project helpful, consider supporting the developer:
-- Scan the QR code in the application to make a donation
-
-# เลี้ยงกาแฟผู้พัฒนา (โดเนท)
-
-!["Alt text"](https://warathepj.github.io/js-ai-gallery/public/image/promptpay-20.png)
-
-
-# เลี้ยงกาแฟผู้พัฒนา (โดเนท)
-
-!["Alt text"](https://warathepj.github.io/js-ai-gallery/public/image/promptpay-20.png)
-
-
 
 
 
