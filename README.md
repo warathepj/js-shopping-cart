@@ -53,6 +53,9 @@ If you find this project helpful, consider supporting the developer:
 !["Alt text"](https://warathepj.github.io/js-ai-gallery/public/image/promptpay-20.png)
 
 
+# เลี้ยงกาแฟผู้พัฒนา (โดเนท)
+
+!["Alt text"](https://warathepj.github.io/js-ai-gallery/public/image/promptpay-20.png)
 
 
 
